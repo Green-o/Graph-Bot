@@ -1,0 +1,6 @@
+/node_modules
+/Graph_Generator/application.linux32
+/Graph_Generator/application.linux64
+/Graph_Generator/application.linux-armv6hf
+/Graph_Generator/output.png
+config.js
